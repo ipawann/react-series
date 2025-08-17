@@ -38,6 +38,7 @@ export default todoSlice.reducer
 
 ## Step 3 - add something to store / useDispatch()
 - add some data to the store
+- dispatch reducers ko use krte hue store m add/changes krta haii....
 ```
 import {useDispatch} from `react-redux`
 function addtodo(){
